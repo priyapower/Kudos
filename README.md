@@ -1,5 +1,5 @@
 # Kudos
-CRUD project with Python BE and React FE
+CRUD project with Python BE, Flask framework, and React FE
 
 # User Stories
 ## Backend Stories
